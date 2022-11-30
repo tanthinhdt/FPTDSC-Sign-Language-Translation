@@ -1,1 +1,14 @@
-{}
+{
+  "workspace:undo-close-pane": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "insert-current-time": [],
+  "insert-current-date": []
+}
