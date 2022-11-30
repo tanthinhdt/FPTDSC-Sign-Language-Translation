@@ -1,1 +1,1 @@
-# FPTDSC-Sign-Language-Translation-
+# FPTDSC-Sign-Language-Translation
