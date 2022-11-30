@@ -1,1 +1,7 @@
-{}
+{
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Images",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Knowledges"
+}

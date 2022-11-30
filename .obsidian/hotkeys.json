@@ -1,5 +1,8 @@
 {
+<<<<<<< HEAD
   "workspace:undo-close-pane": [],
+=======
+>>>>>>> efcdb4769996ed146dae7c85aca489f9bfbb7977
   "insert-template": [
     {
       "modifiers": [
@@ -9,6 +12,10 @@
       "key": "T"
     }
   ],
+<<<<<<< HEAD
   "insert-current-time": [],
   "insert-current-date": []
+=======
+  "workspace:undo-close-pane": []
+>>>>>>> efcdb4769996ed146dae7c85aca489f9bfbb7977
 }

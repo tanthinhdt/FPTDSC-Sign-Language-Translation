@@ -1,4 +1,7 @@
+20221130
+Topics: #ComputerVision , #NLP 
 
+---
 # Problem
 
 # Datasets
@@ -10,7 +13,13 @@
 |Segments (samples) | Content in the second column|
 
 # Methodology
-
 ## Evaluation
 
 # Result
+
+
+---
+
+# References
+
+

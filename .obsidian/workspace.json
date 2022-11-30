@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Papers/Skeleton Aware Multi-modal Sign Language Recognition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Papers/Skeleton Aware Multi-modal Sign Language Recognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Papers/Skeleton Aware Multi-modal Sign Language Recognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Papers/Skeleton Aware Multi-modal Sign Language Recognition.md"
               }
             }
           }
@@ -136,10 +136,13 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "d00fefd7c61bca9d",
+  "active": "0a3216d641b10982",
   "lastOpenFiles": [
-    "2022-11-30.md",
-    "Skeleton Aware Multi-modal Sign Language Recognition.md",
-    "README.md"
+    "Papers/Neural Sign Language Translation.md",
+    "Papers/Skeleton Aware Multi-modal Sign Language Recognition.md",
+    "Templates/Template.md",
+    "Knowledges/2022-11-30.md",
+    "README.md",
+    "2022-11-30.md"
   ]
 }
