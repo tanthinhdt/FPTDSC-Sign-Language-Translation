@@ -15,7 +15,21 @@ Useful:
 | Step 2: down-sample | All features down-sample to 24 x 24 using [[max pooling]] with [[2D convolution]] layer seperably (easily to converge, reduce parameters)
 
 ## Pipeline explain
-| Step 1| Doing|
+| Stage| Purpose | Doing|
+| --- | --- | --- |
+| 1 | Resize, process temporal information| Reshape features from 60 x 33 x 24 to 60 x 792 x 24, **feed 1 x 1 [[convolution]] layers**|
+| 2 | Extract temporal and spatial information among same key points features | shuffle and divided to 60 groups, utilize grouped 3 x 3 [[convolution]] |
+| 3 | Extract spatial information | Shuffle again and divided into 33 groups, utilize grouped 3 x 3 [[convolution]]| 
+| 4 | Generate predict features| implement all 3 x 3 fully connected layers|
+Note:
+- 3 first stage, ouptut is added by a residual
+- All stages (module) have dropout layer to avoid overfitting
+### Problems in pipeline
+| Problems| Soluted |
+| --- | --- |
+| one-hot with cross entropy results overfitting in some case| adapt [[label smoothing]] technique|
+
+
 
 ---
 # References
