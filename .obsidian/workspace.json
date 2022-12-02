@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84ca54212718cd1c",
+            "id": "1e46f70fe06b4cda",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "750fc6f353ef6454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledges/ROUGE Score.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a6b770532608b36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledges/CTC Loss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e46f70fe06b4cda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledges/BLEU Score.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -107,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "b7c7de9961fea8bf",
@@ -123,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledges/CTC Loss.md",
+                "file": "Papers/Neural Sign Language Translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledges/CTC Loss.md",
+                "file": "Papers/Neural Sign Language Translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledges/CTC Loss.md"
+                "file": "Papers/Neural Sign Language Translation.md"
               }
             }
           }
@@ -174,13 +138,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a6b770532608b36",
+  "active": "d00fefd7c61bca9d",
   "lastOpenFiles": [
+    "Papers/Neural Sign Language Translation.md",
+    "Knowledges/CTC Loss.md",
     "hello notes.md",
     "Hello dsc.md",
     "Knowledges/ROUGE Score.md",
-    "Papers/Neural Sign Language Translation.md",
-    "Knowledges/CTC Loss.md",
     "Knowledges/BLEU Score.md",
     "README.md",
     "Templates/Template.md"
