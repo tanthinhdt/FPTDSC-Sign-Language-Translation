@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#NLP",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "tag:#ComputerVision",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#NLP",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     },
     {
@@ -27,18 +27,25 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#Model",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 1.18208333333333,
+  "lineSizeMultiplier": 0.977916666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.383268229166667,
+  "repelStrength": 8.83333333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.1591749799251236,
+  "linkDistance": 253,
+  "scale": 0.9681619554185534,
   "close": false
 }

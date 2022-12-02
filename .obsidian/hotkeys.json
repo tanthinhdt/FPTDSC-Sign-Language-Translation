@@ -1,12 +1,1 @@
-{
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "T"
-    }
-  ],
-  "workspace:undo-close-pane": []
-}
+{}
